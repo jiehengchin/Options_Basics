@@ -12,3 +12,5 @@ This repo contains self-contained Python notebooks exploring BTC options pricing
 - Python 3 with `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`, and `requests` is sufficient. Install via `pip install pandas numpy matplotlib seaborn scipy requests`.
 - The IV/vol-surface notebooks call the public Deribit API; you need network access for live data.
 - Plots render inline in Jupyter; if running headless, use a compatible matplotlib backend (e.g., `Agg`).
+
+Credit to VertoxQuant
